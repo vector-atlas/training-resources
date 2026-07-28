@@ -1,0 +1,131 @@
+# A Vector Atlas curated resource for learning and levelling-up   
+
+These pages help our PhD students, career researchers and partners develop or dust-off sound research and working practices. 
+
+Topics are grouped by the kind of practice they support, since we anticipate that most modules will be revisited at different points in a person's learning and practice.
+
+## 1. A working life in research
+
+This fundamentally important element won't be the subject of much development here, since it is not our wheelhouse. That said, each person will benefit from developing some reflective habits and self-maintaining practices that can provide bedrock and orientation for your professional journey.
+
+- What is this?
+- Defusing catastrophic thinking
+- Seeking help
+- Accepting good enough
+- Looking after yourself (workload, isolation, identity-as-researcher)
+
+### Model assumptions
+Vector Atlas is all about models. We make useful models that bring evidence to bear on vector control in countries with high malaria burden. The utility of our models and map outputs depends on well-placed assumptions.  
+
+This curated resource was prepared according to our concept of your needs (a conceptual model), so let's make some of the assumptions explicit.
+
+
+
+## 2. Engaging with the literature
+
+Surely you're not going to tell me how to read?!
+
+- Reading an academic paper (active reading, skimming strategy, evaluating claims)
+- How to cite literature
+- Constructing a living literature search
+- Extracting someone else's conceptual model
+- Peer review *(cross-cuts with collaboration and paper-writing)*
+
+## 3. Planning and managing a research project
+
+- File management
+- Managing your research data
+- Research ethics and data ethics (consent, sensitive data, authorship norms)
+- Study and experimental design
+- Pre-registration
+- Open science practice (data/code sharing, licensing, archiving)
+- Tracking and communicating progress
+- Writing a proposal or fellowship application
+
+## 4. Computing practice
+
+### 4a. Foundations of reproducible computing
+
+- Writing reproducible code
+- Git and GitHub for codebase management
+- Reproducible example
+
+### 4b. R craft
+
+- Relational data management in R
+- Regular expressions
+- Functional programming in R
+
+## 5. Quantitative reasoning and modelling
+
+- Reading and writing maths
+- Model-based thinking
+- Writing a likelihood
+- Point process models
+
+## 6. Visualising ideas and data
+
+- Diagramming
+- Your conceptual diagram
+- Making a contextual map in R
+- Tailoring and exporting R plots for documents and presentations
+
+## 7. Document preparation
+
+- Document preparation in LaTeX
+- Document preparation in Quarto
+
+## 8. Communication and engagement
+
+- How to write a paper
+- Your elevator pitch
+- Designing an adaptable presentation template
+- Giving an engaging presentation
+- Stakeholder and policy engagement
+
+## 9. Working with others
+
+- Collaboration mechanics (authorship conventions, co-authors, the advisor relationship)
+
+---
+
+## Threaded theme: using LLMs as a means to an end
+
+Rather than teaching LLM use as a standalone module, it runs through the curriculum as applied practice. Each appearance should revisit a shared set of principles — prompting, verification, knowing when to trust output, attribution, reproducibility of LLM-assisted work — alongside the specific task.
+
+Likely touchpoints:
+
+- Literature engagement (2): summarising, finding related work, extracting conceptual structure
+- Project management (3): drafting plans, outlines, progress notes
+- Computing (4): code generation, debugging, refactoring, reproducible examples
+- Quantitative reasoning (5): deriving, checking, and explaining maths
+- Document preparation (7): drafting, editing, formatting
+- Communication (8): tightening prose, generating variants, audience adaptation
+
+## Cross-cutting topics
+
+Some topics naturally reference multiple modules:
+
+- **File management** underpins both project management (3) and computing (4).
+- **Tailoring and exporting R plots** spans visualisation (6) and document preparation (7).
+- **Your conceptual diagram** and **extracting someone else's conceptual model** are mirror skills (producing vs reading) bridging literature engagement (2) and visualisation (6).
+- **Peer review** sits primarily with literature engagement (2) but cuts across collaboration (9) and paper-writing (8).
+- **How to write a paper** draws on project management (3) as well as communication (8).
+
+## Natural dependencies
+
+Useful when sequencing sessions later:
+
+- Reading and writing maths → writing a likelihood → point process models
+- File management → writing reproducible code → git/GitHub → reproducible example
+- Diagramming → your conceptual diagram → extracting others' conceptual models
+- LaTeX or Quarto presupposes some comfort with plain-text tooling and git
+
+---
+
+## Notes for further development
+
+- Decide delivery format per topic (taught session, workshop, self-guided, reading group, one-to-one)
+- Add resources and exemplars per topic
+- Identify which topics benefit from revisiting at different PhD stages
+- Consider an induction sequence covering minimal viable set from (1), (3), and (4a)
