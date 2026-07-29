@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Vector Atlas training resources"
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - index.qmd
+      - section: "1. Foundations"
+        contents: modules/01-foundations/*.qmd
+      - section: "2. Literature"
+        contents: modules/02-literature/*.qmd
+      # ... etc
+      - section: "LLM practice"
+        contents: llm-practice/*.qmd
+  page-footer: "Vector Atlas"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto   # cache rendered output; only re-render changed files
+  echo: true
+  warning: false
+
+
+

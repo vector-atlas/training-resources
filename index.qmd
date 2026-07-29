@@ -1,24 +1,22 @@
-# A Vector Atlas curated resource for learning and levelling-up   
+# A Vector Atlas curated resource for learning and levelling-up 
 
-These pages help our PhD students, career researchers and partners develop or dust-off sound research and working practices. 
+Vector Atlas is all about models. We make useful models that bring evidence to bear on vector control in countries with high malaria burden. The utility of our models and map outputs depends on well-placed assumptions.  This resource was prepared according to our assumptions about your needs (i.e., a conceptual model of you), please let us know where we are off the mark. <<also let's make some of the assumptions explicit?>>
+
+These pages are intended to help our PhD students, career researchers and partners develop or dust-off sound research and working practices. 
 
 Topics are grouped by the kind of practice they support, since we anticipate that most modules will be revisited at different points in a person's learning and practice.
 
+Text will be minimal. Our intention is to give you a sense of the criteria behind the selection of the resources. Besides, some of these topics are moving _very_ fast indeed, and anything one writes can be obsolete by the time you finish the sentence.
+
 ## 1. A working life in research
 
-This fundamentally important element won't be the subject of much development here, since it is not our wheelhouse. That said, each person will benefit from developing some reflective habits and self-maintaining practices that can provide bedrock and orientation for your professional journey.
+This fundamentally important element won't be the subject of much development here, since it is not our wheelhouse. That said, each person will benefit from developing some reflective habits and self-maintaining practices that can provide bedrock and orientation for your professional journey. Those kinds of practices can be particularly helpful when learning new skills or relearning skills that have proved hard to consolidate in your head.
 
 - What is this?
 - Defusing catastrophic thinking
 - Seeking help
 - Accepting good enough
 - Looking after yourself (workload, isolation, identity-as-researcher)
-
-### Model assumptions
-Vector Atlas is all about models. We make useful models that bring evidence to bear on vector control in countries with high malaria burden. The utility of our models and map outputs depends on well-placed assumptions.  
-
-This curated resource was prepared according to our concept of your needs (a conceptual model), so let's make some of the assumptions explicit.
-
 
 
 ## 2. Engaging with the literature
@@ -91,7 +89,7 @@ Surely you're not going to tell me how to read?!
 
 ## Threaded theme: using LLMs as a means to an end
 
-Rather than teaching LLM use as a standalone module, it runs through the curriculum as applied practice. Each appearance should revisit a shared set of principles — prompting, verification, knowing when to trust output, attribution, reproducibility of LLM-assisted work — alongside the specific task.
+Rather than addressing LLM use as a standalone module, it runs through the curriculum as applied practice. Each appearance should revisit a shared set of principles — prompting, verification, knowing when to trust output, attribution, reproducibility of LLM-assisted work — alongside the specific task.
 
 Likely touchpoints:
 
