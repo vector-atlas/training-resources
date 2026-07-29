@@ -1,16 +1,16 @@
 # A Vector Atlas curated resource for learning and levelling-up 
 
-Vector Atlas is all about models. We make useful models that bring evidence to bear on vector control in countries with high malaria burden. The utility of our models and map outputs depends on well-placed assumptions.  This resource was prepared according to our assumptions about your needs (i.e., a conceptual model of you), please let us know where we are off the mark. <<also let's make some of the assumptions explicit?>>
+Vector Atlas is all about models. We make useful models that bring evidence to bear on vector control in countries with high malaria burden. Just as the utility of our models and map outputs about malaria vectors depend on well-placed assumptions, the utility of this resource was prepared according to our assumptions about your needs. Please let us know where we are off the mark. 
 
-These pages are intended to help our PhD students, career researchers and partners develop or dust-off sound research and working practices. 
+These pages are intended to help our PhD students, interns, career researchers and partners develop or dust-off sound research and working practices. 
 
 Topics are grouped by the kind of practice they support, since we anticipate that most modules will be revisited at different points in a person's learning and practice.
 
-Text will be minimal. Our intention is to give you a sense of the criteria behind the selection of the resources. Besides, some of these topics are moving _very_ fast indeed, and anything one writes can be obsolete by the time you finish the sentence.
+Text will be minimal. Our intention is to give you a sense of the criteria behind the selection of the resources. Besides, some of these topics are moving _very_ fast indeed, and anything we write might be obsolete by the time we finish writing the sentence.
 
 ## 1. A working life in research
 
-This fundamentally important element won't be the subject of much development here, since it is not our wheelhouse. That said, each person will benefit from developing some reflective habits and self-maintaining practices that can provide bedrock and orientation for your professional journey. Those kinds of practices can be particularly helpful when learning new skills or relearning skills that have proved hard to consolidate in your head.
+This fundamentally important element won't be the subject of much development here, since it is not our wheelhouse. That said, each person will benefit from developing some reflective habits and self-maintaining practices that can provide bedrock and orientation for your professional journey. Those kinds of practices can be particularly helpful when learning new skills or relearning skills that have proved hard to consolidate in your head, such as those we highlight in later sections.
 
 - What is this?
 - Defusing catastrophic thinking
